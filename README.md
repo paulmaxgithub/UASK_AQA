@@ -417,7 +417,7 @@ This framework successfully demonstrates comprehensive QA automation for AI chat
 **Framework**: U-Ask QA Automation  
 **Version**: 1.0.0 (Production)  
 **Compliance**: Technical Specification Complete  
-**Author**: QA Automation Engineer  
+**Author**: Pavel Maximenko
 **Created**: 2025
-
 ````
+
